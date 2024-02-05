@@ -16,8 +16,6 @@ Every time you click the enter key a word will be hidden until you decide to qui
 class Scripture
 {
     public string Refrence { get;set; }
-    //public int Chapter { get; set;}
-    //public int Verse {get; set;}
     public string Text{get; set;}
 }
 
